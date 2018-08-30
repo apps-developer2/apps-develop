@@ -10,6 +10,17 @@
     "custom_adurl" : "https://raw.githubusercontent.com/apps-developer2/apps-develop/master/musicbanners.png",
     "customad_pkg" : "music.player.musicplayer",
     "cust_isshow" : "true"
+  },
+  {
+   "package_name":"com.gs.autocallrecorder",
+    "active_ad" : "1",
+    "random_no" : "3",
+    "IsAdshowOneTime" : "false",
+    "google_ad_interestial": "ca-app-pub-2150910699471133/4233176832",
+    "fb_ad_interestial": "",
+    "custom_adurl" : "https://raw.githubusercontent.com/apps-developer2/apps-develop/master/musicbanners.png",
+    "customad_pkg" : "music.player.musicplayer",
+    "cust_isshow" : "true"
   }
 ]
 }
