@@ -31,7 +31,7 @@
     "fb_ad_interestial": "192462348036841_192462434703499",
     "custom_adurl" : "https://raw.githubusercontent.com/apps-developer2/apps-develop/master/musicbanners.png",
     "customad_pkg" : "music.player.musicplayer",
-    "cust_isshow" : "false"
+    "cust_isshow" : "true"
 }
 ]
 }
