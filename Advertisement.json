@@ -25,8 +25,8 @@
    {
    "package_name":"org.gs.gallery",
     "active_ad" : "2",
-    "random_no" : "2",
-    "IsAdshowOneTime" : "true",
+    "random_no" : "4",
+    "IsAdshowOneTime" : "false",
     "google_ad_interestial": "ca-app-pub-2150910699471133/9818458580",
     "fb_ad_interestial": "192462348036841_192462434703499",
     "custom_adurl" : "https://raw.githubusercontent.com/apps-developer2/apps-develop/master/musicbanners.png",
