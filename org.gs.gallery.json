@@ -13,7 +13,7 @@
     "is_update" : "true",
     "is_forcefully": "false",
     "version_code" : "63",
-    "new_version_code" : "63",
+    "new_version_code" : "64",
     "custom_adurl" : "https://raw.githubusercontent.com/apps-developer/common-ad-setting/master/gallerybanner.png",
     "customad_pkg" : "gallery.gallerydownload.gallerylocker",
     "cust_isshow" : "true"
