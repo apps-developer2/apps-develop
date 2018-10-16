@@ -10,10 +10,10 @@
     "fb_ad_interestial": "192462348036841_192462434703499",
     "fb_nativebanner" : "192462348036841_288277475121994",
     "active_banner_ad" : "2",
-    "is_update" : "false",
+    "is_update" : "true",
     "is_forcefully": "false",
     "version_code" : "63",
-    "new_version_code" : "63",
+    "new_version_code" : "64",
     "custom_adurl" : "https://raw.githubusercontent.com/apps-developer2/apps-develop/master/autocallrecorder.png",
     "customad_pkg" : "com.gs.autocallrecorder",
     "cust_isshow" : "true"
