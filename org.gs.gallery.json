@@ -11,7 +11,7 @@
     "fb_nativebanner" : "192462348036841_288277475121994",
     "active_banner_ad" : "2",
     "is_update" : "false",
-    "is_forcefully": "true",
+    "is_forcefully": "false",
     "version_code" : "63",
     "new_version_code" : "63",
     "custom_adurl" : "https://raw.githubusercontent.com/apps-developer2/apps-develop/master/autocallrecorder.png",
