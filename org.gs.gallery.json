@@ -2,14 +2,14 @@
  "info": [
    {
     "package_name":"org.gs.gallery",
-    "active_ad" : "2",
+    "active_ad" : "1",
     "random_no" : "2",
     "IsAdshowOneTime" : "true",
     "google_ad_interestial": "ca-app-pub-2150910699471133/9818458580",
     "google_banner" : "ca-app-pub-2150910699471133/1149754781",
     "fb_ad_interestial": "192462348036841_192462434703499",
     "fb_nativebanner" : "192462348036841_288277475121994",
-    "active_banner_ad" : "2",
+    "active_banner_ad" : "1",
     "is_update" : "false",
     "is_forcefully": "false",
     "version_code" : "63",
