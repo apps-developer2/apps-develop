@@ -16,8 +16,8 @@
     "new_version_code" : "63",
     "message" : "Update new 64 Version is available to download. Downlaoding the latest version you will get the latest features,improvements and bug fix version",
     "custom_adurl" : "https://raw.githubusercontent.com/apps-developer2/apps-develop/master/musicbanners.png",
-    "customad_pkg" : "org.musicplayer.mp3musicdownload",
-    "cust_isshow" : "false"
+    "customad_pkg" : "org.freemusicplayer.musicplayernew",
+    "cust_isshow" : "true"
  },
   {
     "package_name":"org.gs.gallery",
@@ -35,8 +35,8 @@
     "new_version_code" : "64",
     "message" : "Update new 65 Version is available to download. Downlaoding the latest version you will get the latest features,improvements and bug fix version",
     "custom_adurl" : "https://raw.githubusercontent.com/apps-developer2/apps-develop/master/musicbanners.png",
-    "customad_pkg" : "org.musicplayer.mp3musicdownload",
-    "cust_isshow" : "false"
+    "customad_pkg" : "org.freemusicplayer.musicplayernew",
+    "cust_isshow" : "true"
  }
 ]
 }
