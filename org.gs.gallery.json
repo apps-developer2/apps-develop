@@ -23,7 +23,7 @@
     "package_name":"org.gs.gallery",
     "active_ad" : "1",
     "random_no" : "2",
-    "IsAdshowOneTime" : "true",
+    "IsAdshowOneTime" : "false",
     "google_ad_interestial": "ca-app-pub-2150910699471133/9818458580",
     "google_banner" : "ca-app-pub-2150910699471133/1149754781",
     "fb_ad_interestial": "12345",
