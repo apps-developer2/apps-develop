@@ -37,6 +37,29 @@
     "custom_adurl" : "https://raw.githubusercontent.com/apps-developer2/apps-develop/master/musicbanners.png",
     "customad_pkg" : "musicplay.musicplayer",
     "cust_isshow" : "false"
- }
+ },
+  {
+    "package_name":"org.gs.gallery",
+    "active_ad" : "1",
+    "random_no" : "2",
+    "firstpage_fb_random" : "2",
+    "firstpage_fb_duration" : "1500",
+    "IsAdshowOneTime" : "true",
+    "google_ad_interestial": "ca-app-pub-2150910699471133/9818458580",
+    "google_banner" : "ca-app-pub-2150910699471133/1149754781",
+    "fb_ad_interestial" : "123",
+    "fb_ad_interestial_duration" : "1000",
+    "firstpage_fb_interstrial_ad" : "123",
+    "fb_nativebanner" : "123",
+    "active_banner_ad" : "1",
+    "is_update" : "false",
+    "is_forcefully": "false",
+    "version_code" : "65",
+    "new_version_code" : "65",
+    "message" : "Update new 66 Version is available to download. Downlaoding the latest version you will get the latest features,improvements and bug fix version",
+    "custom_adurl" : "https://raw.githubusercontent.com/apps-developer2/apps-develop/master/musicbanners.png",
+    "customad_pkg" : "musicplay.musicplayer",
+    "cust_isshow" : "true"
+}
 ]
 }
