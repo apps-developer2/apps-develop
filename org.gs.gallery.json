@@ -59,7 +59,7 @@
     "message" : "Update new 66 Version is available to download. Downlaoding the latest version you will get the latest features,improvements and bug fix version",
     "custom_adurl" : "https://raw.githubusercontent.com/apps-developer2/apps-develop/master/musicbanners.png",
     "customad_pkg" : "musicplay.musicplayer",
-    "cust_isshow" : "true"
+    "cust_isshow" : "false"
 }
 ]
 }
