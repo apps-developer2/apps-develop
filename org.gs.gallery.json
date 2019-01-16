@@ -86,7 +86,7 @@
 },
   {
     "package_name":"org.gs.gallery",
-    "active_ad" : "1",
+    "active_ad" : "2",
     "random_no" : "2",
     "firstpage_fb_random" : "2",
     "firstpage_fb_duration" : "15000",
