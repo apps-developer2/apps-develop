@@ -57,8 +57,8 @@
     "version_code" : "65",
     "new_version_code" : "65",
     "message" : "Update new 66 Version is available to download. Downlaoding the latest version you will get the latest features,improvements and bug fix version",
-    "custom_adurl" : "https://raw.githubusercontent.com/apps-developer2/apps-develop/master/musicbanners.png",
-    "customad_pkg" : "org.freemusicplayer.musicplayernew",
+    "custom_adurl" : "https://raw.githubusercontent.com/apps-developer2/apps-develop/master/videoplayer.png",
+    "customad_pkg" : "bestplayer.freeplayer.videoplayer",
     "cust_isshow" : "true"
 },
    {
@@ -80,8 +80,8 @@
     "version_code" : "66",
     "new_version_code" : "66",
     "message" : "Update new 67 Version is available to download. Downlaoding the latest version you will get the latest features,improvements and bug fix version",
-    "custom_adurl" : "https://raw.githubusercontent.com/apps-developer2/apps-develop/master/musicbanners.png",
-    "customad_pkg" : "org.freemusicplayer.musicplayernew",
+    "custom_adurl" : "https://raw.githubusercontent.com/apps-developer2/apps-develop/master/videoplayer.png",
+    "customad_pkg" : "bestplayer.freeplayer.videoplayer",
     "cust_isshow" : "true"
 },
   {
@@ -103,9 +103,9 @@
     "version_code" : "67",
     "new_version_code" : "67",
     "message" : "Update new 68 Version is available to download. Downlaoding the latest version you will get the latest features,improvements and bug fix version",
-    "custom_adurl" : "https://raw.githubusercontent.com/apps-developer2/apps-develop/master/musicbanners.png",
-    "customad_pkg" : "org.freemusicplayer.musicplayernew",
-    "cust_isshow" : "false"
+    "custom_adurl" : "https://raw.githubusercontent.com/apps-developer2/apps-develop/master/videoplayer.png",
+    "customad_pkg" : "bestplayer.freeplayer.videoplayer",
+    "cust_isshow" : "true"
 }
 ]
 }
