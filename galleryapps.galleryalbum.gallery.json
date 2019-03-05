@@ -44,9 +44,9 @@
     "customad_pkg" : "bestplayer.freeplayer.videoplayer",
     "cust_isshow" : "true",
     "notiappname" : "Gallery",
-    "notidesc" : "Gallery is best alternative in play store apps",
-    "notiurl" : "",
-    "notipkg" : "com.threestar.gallery"
+    "notidesc" : "Video Equalizer is a smart and convenient video player for android",
+    "notiurl" : "https://lh3.googleusercontent.com/_5ewEQbsqeZLcowLHRVZ40UiyHEXtSFQEBHV1v78XFkesI0WtUxoLwkmEaJohhO8Zwk9=s180",
+    "notipkg" : "bestplayer.freeplayer.videoplayer"
 }
 ]
 }
