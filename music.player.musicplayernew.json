@@ -1,1 +1,35 @@
 
+{
+ "info": [
+   {
+    "package_name":"music.player.musicplayernew",
+    "active_ad" : "2",
+    "random_no" : "1",
+    "fb_advance_native_skippos" : "9",
+    "firstpage_fb_duration" : "0",
+    "IsAdshowOneTime" : "true",
+    "google_ad_interestial": "ca-app-pub-3940256099942544/1033173712",
+    "google_banner" : "ca-app-pub-3940256099942544/6300978111",
+    "fb_ad_interestial" : "YOUR_PLACEMENT_ID",
+    "fb_ad_interestial_duration" : "800",
+    "fb_advance_native_adid" : "YOUR_PLACEMENT_ID",
+    "fb_nativebanner" : "YOUR_PLACEMENT_ID",
+    "is_fb_bannerad_show" : "2",
+    "active_banner_ad" : "2",
+    "is_update" : "false",
+    "is_forcefully": "false",
+    "is_live" : "true",
+    "new_url" : "",
+    "version_code" : "5",
+    "new_version_code" : "5",
+    "message" : "Update new 6 Version is available to download. Downlaoding the latest version you will get the latest features,improvements and bug fix version",
+    "custom_adurl" : "https://raw.githubusercontent.com/apps-developer2/apps-develop/master/videoplayer.png",
+    "customad_pkg" : "bestplayer.freeplayer.videoplayer",
+    "cust_isshow" : "true",
+    "notiappname" : "BoyzPix - Photo Editor and Beard Maker",
+    "notidesc" : "BoyzPix - Photo Editor and Beard Maker Newest app for boys and Girls",
+    "notiurl" : "https://lh3.googleusercontent.com/sEN8Q9SL2wt4j6n1N_OF5f-l6VT0m27cC1GS1urW05U8UDVJ0zVlGYaJyuDDppnHVW-S=s180",
+    "notipkg" : "boyzpixphotoeditor.photoeditor.boysphotoeditor"
+}
+]
+}
