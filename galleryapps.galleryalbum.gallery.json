@@ -20,7 +20,7 @@
     "message" : "Update new 3 Version is available to download. Downlaoding the latest version you will get the latest features,improvements and bug fix version",
     "custom_adurl" : "https://raw.githubusercontent.com/apps-developer2/apps-develop/master/videoplayer.png",
     "customad_pkg" : "bestplayer.freeplayer.videoplayer",
-    "cust_isshow" : "false"
+    "cust_isshow" : "true"
 },
   {
     "package_name":"galleryapps.galleryalbum.gallery",
@@ -42,7 +42,7 @@
     "message" : "Update new 4 Version is available to download. Downlaoding the latest version you will get the latest features,improvements and bug fix version",
     "custom_adurl" : "https://raw.githubusercontent.com/apps-developer2/apps-develop/master/videoplayer.png",
     "customad_pkg" : "bestplayer.freeplayer.videoplayer",
-    "cust_isshow" : "false",
+    "cust_isshow" : "true",
     "notiappname" : "Gallery",
     "notidesc" : "Video Equalizer is a smart and convenient video player for android",
     "notiurl" : "",
@@ -72,7 +72,7 @@
     "message" : "Update new 5 Version is available to download. Downlaoding the latest version you will get the latest features,improvements and bug fix version",
     "custom_adurl" : "https://raw.githubusercontent.com/apps-developer2/apps-develop/master/videoplayer.png",
     "customad_pkg" : "bestplayer.freeplayer.videoplayer",
-    "cust_isshow" : "false",
+    "cust_isshow" : "true",
     "notiappname" : "BoyzPix - Photo Editor and Beard Maker",
     "notidesc" : "BoyzPix - Photo Editor and Beard Maker Newest app for boys and Girls",
     "notiurl" : "",
@@ -102,7 +102,7 @@
     "message" : "Update new 6 Version is available to download. Downlaoding the latest version you will get the latest features,improvements and bug fix version",
     "custom_adurl" : "https://raw.githubusercontent.com/apps-developer2/apps-develop/master/videoplayer.png",
     "customad_pkg" : "bestplayer.freeplayer.videoplayer",
-    "cust_isshow" : "false",
+    "cust_isshow" : "true",
     "notiappname" : "BoyzPix - Photo Editor and Beard Maker",
     "notidesc" : "BoyzPix - Photo Editor and Beard Maker Newest app for boys and Girls",
     "notiurl" : "",
