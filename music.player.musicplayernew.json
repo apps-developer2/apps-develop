@@ -8,12 +8,12 @@
     "fb_advance_native_skippos" : "9",
     "firstpage_fb_duration" : "0",
     "IsAdshowOneTime" : "true",
-    "google_ad_interestial": "ca-app-pub-3940256099942544/1033173712",
-    "google_banner" : "ca-app-pub-3940256099942544/6300978111",
-    "fb_ad_interestial" : "YOUR_PLACEMENT_ID",
+    "google_ad_interestial": "",
+    "google_banner" : "",
+    "fb_ad_interestial" : "",
     "fb_ad_interestial_duration" : "800",
-    "fb_advance_native_adid" : "YOUR_PLACEMENT_ID",
-    "fb_nativebanner" : "YOUR_PLACEMENT_ID",
+    "fb_advance_native_adid" : "",
+    "fb_nativebanner" : "",
     "is_fb_bannerad_show" : "2",
     "active_banner_ad" : "2",
     "is_update" : "false",
@@ -28,7 +28,7 @@
     "cust_isshow" : "true",
     "notiappname" : "BoyzPix - Photo Editor and Beard Maker",
     "notidesc" : "BoyzPix - Photo Editor and Beard Maker Newest app for boys and Girls",
-    "notiurl" : "https://lh3.googleusercontent.com/sEN8Q9SL2wt4j6n1N_OF5f-l6VT0m27cC1GS1urW05U8UDVJ0zVlGYaJyuDDppnHVW-S=s180",
+    "notiurl" : "",
     "notipkg" : "boyzpixphotoeditor.photoeditor.boysphotoeditor"
 }
 ]
