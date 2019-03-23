@@ -130,7 +130,7 @@
     "version_code" : "6",
     "new_version_code" : "6",
     "message" : "Update new 7 Version is available to download. Downlaoding the latest version you will get the latest features,improvements and bug fix version",
-    "custom_adurl" : "https://raw.githubusercontent.com/apps-developer/common-ad-setting/master/musicbanners.png",
+    "custom_adurl" : "",
     "customad_pkg" : "music.player.musicplayernew",
     "cust_isshow" : "true",
     "notiappname" : "Music Player 2019",
