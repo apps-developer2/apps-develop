@@ -105,7 +105,7 @@
     "cust_isshow" : "false",
     "notiappname" : "Music Player 2019",
     "notidesc" : "Music Player with powerful equalizer, Quick search all your music files",
-    "notiurl" : "https://lh3.googleusercontent.com/R6p5rpG9SaVZEFT09_2gXG7_XGELCpaeUl7DLLrWWXG_Dr4K7J8NK1DSn83MImWlV8E=s180",
+    "notiurl" : "",
     "notipkg" : "music.player.musicplayernew"
 },
    {
@@ -135,7 +135,7 @@
     "cust_isshow" : "true",
     "notiappname" : "Music Player 2019",
     "notidesc" : "Music Player with powerful equalizer, Quick search all your music files",
-    "notiurl" : "https://lh3.googleusercontent.com/R6p5rpG9SaVZEFT09_2gXG7_XGELCpaeUl7DLLrWWXG_Dr4K7J8NK1DSn83MImWlV8E=s180",
+    "notiurl" : "",
     "notipkg" : "music.player.musicplayernew"
 }
 ]
