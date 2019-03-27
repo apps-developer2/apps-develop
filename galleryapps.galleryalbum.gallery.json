@@ -132,7 +132,7 @@
     "message" : "Update new 7 Version is available to download. Downlaoding the latest version you will get the latest features,improvements and bug fix version",
     "custom_adurl" : "https://raw.githubusercontent.com/apps-developer/common-ad-setting/master/musicbanners.png",
     "customad_pkg" : "music.player.musicplayernew",
-    "cust_isshow" : "true",
+    "cust_isshow" : "false",
     "notiappname" : "Music Player 2019",
     "notidesc" : "Music Player with powerful equalizer, Quick search all your music files",
     "notiurl" : "",
