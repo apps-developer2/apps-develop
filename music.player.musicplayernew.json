@@ -55,7 +55,7 @@
     "message" : "Update new 3 Version is available to download. Downlaoding the latest version you will get the latest features,improvements and bug fix version",
     "custom_adurl" : "https://raw.githubusercontent.com/apps-developer/common-ad-setting/master/boyzpixphotoeditor.png",
     "customad_pkg" : "boyzpixphotoeditor.photoeditor.boysphotoeditor",
-    "cust_isshow" : "true",
+    "cust_isshow" : "false",
     "notiappname" : "BoyzPix - Photo Editor and Beard Maker",
     "notidesc" : "BoyzPix - Photo Editor and Beard Maker Newest app for boys and Girls",
     "notiurl" : "",
