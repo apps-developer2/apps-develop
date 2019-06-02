@@ -230,7 +230,7 @@
 },
   {
     "package_name":"galleryapps.galleryalbum.gallery",
-    "active_ad" : "1",
+    "active_ad" : "2",
     "random_no" : "1",
     "fb_advance_native_skippos" : "9",
     "firstpage_fb_duration" : "0",
@@ -242,7 +242,7 @@
     "fb_advance_native_adid" : "YOUR_PLACEMENT_ID",
     "fb_nativebanner" : "",
     "is_fb_bannerad_show" : "2",
-    "active_banner_ad" : "1",
+    "active_banner_ad" : "2",
     "is_update" : "false",
     "is_forcefully": "false",
     "is_live" : "true",
