@@ -257,6 +257,36 @@
     "notidesc" : "Auto Background Changer allows you to change photo background",
     "notiurl" : "",
     "notipkg" : "photo.background.backgrounderaser"
+},
+  {
+    "package_name":"galleryapps.galleryalbum.gallery",
+    "active_ad" : "1",
+    "random_no" : "1",
+    "fb_advance_native_skippos" : "9",
+    "firstpage_fb_duration" : "0",
+    "IsAdshowOneTime" : "false",
+    "google_ad_interestial": "ca-app-pub-3940256099942544/1033173712",
+    "google_banner" : "ca-app-pub-3940256099942544/6300978111",
+    "fb_ad_interestial" : "",
+    "fb_ad_interestial_duration" : "800",
+    "fb_advance_native_adid" : "",
+    "fb_nativebanner" : "",
+    "is_fb_bannerad_show" : "2",
+    "active_banner_ad" : "1",
+    "is_update" : "false",
+    "is_forcefully": "false",
+    "is_live" : "true",
+    "new_url" : "",
+    "version_code" : "11",
+    "new_version_code" : "11",
+    "message" : "Update new 10 Version is available to download. Downlaoding the latest version you will get the latest features,improvements and bug fix version",
+    "custom_adurl" : "https://raw.githubusercontent.com/apps-developer2/apps-develop/master/vpnmaster.png",
+    "customad_pkg" : "bestvpn.freevpn.vpn",
+    "cust_isshow" : "false",
+    "notiappname" : "Photo Background Changer",
+    "notidesc" : "Auto Background Changer allows you to change photo background",
+    "notiurl" : "",
+    "notipkg" : "photo.background.backgrounderaser"
 }
   
 ]
