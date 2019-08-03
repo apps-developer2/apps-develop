@@ -259,7 +259,7 @@
     "notipkg" : "photo.background.backgrounderaser"
 },
   {
-    "package_name":"com.scrapbook.photocollage.collagemaker.photogrid",
+    "package_name":"galleryapps.galleryalbum.gallery",
     "active_ad" : "1",
     "random_no" : "1",
     "fb_advance_native_skippos" : "9",
