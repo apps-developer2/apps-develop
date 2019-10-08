@@ -396,7 +396,7 @@
     "random_no" : "1",
     "fb_advance_native_skippos" : "9",
     "firstpage_fb_duration" : "0",
-    "IsAdshowOneTime" : "false",
+    "IsAdshowOneTime" : "true",
     "google_ad_interestial": "ca-app-pub-3672515725605801/2977987487",
     "google_banner" : "ca-app-pub-3672515725605801/2950067329",
     "google_native_appid" : "ca-app-pub-3672515725605801~1337602758",
