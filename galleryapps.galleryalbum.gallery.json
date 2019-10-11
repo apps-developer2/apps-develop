@@ -417,7 +417,7 @@
     "message" : "Update new 7 Version is available to download. Downlaoding the latest version you will get the latest features,improvements and bug fix version",
     "custom_adurl" : "https://raw.githubusercontent.com/apps-developer2/apps-develop/master/videoplayer.png",
     "customad_pkg" : "bestplayer.freeplayer.videoplayer",
-    "cust_isshow" : "true",
+    "cust_isshow" : "false",
     "notiappname" : "Music Player 2019",
     "notidesc" : "Music Player with powerful equalizer, Quick search all your music files",
     "notiurl" : "",
