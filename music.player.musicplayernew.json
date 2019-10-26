@@ -37,7 +37,7 @@
     "random_no" : "1",
     "fb_advance_native_skippos" : "9",
     "firstpage_fb_duration" : "0",
-    "IsAdshowOneTime" : "false",
+    "IsAdshowOneTime" : "true",
     "google_ad_interestial": "ca-app-pub-5308403731432601/4494547190",
     "google_banner" : "ca-app-pub-5308403731432601/1826777984",
     "fb_ad_interestial" : "431601424275284_431603724275054",
