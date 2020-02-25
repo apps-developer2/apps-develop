@@ -845,12 +845,12 @@
     "new_version_code" : "29",
     "message" : "Update new 7 Version is available to download. Downlaoding the latest version you will get the latest features,improvements and bug fix version",
     "custom_adurl" : "",
-    "customad_pkg" : "bestplayer.freeplayer.videoplayer2019",
+    "customad_pkg" : "",
     "cust_isshow" : "true",
     "notiappname" : "Music Player 2019",
     "notidesc" : "Music Player with powerful equalizer, Quick search all your music files",
     "notiurl" : "https://lh3.googleusercontent.com/7KDLGpw4epL13CWrCizCk-5uPwIPbSi6t3aVtQGdfxteTjfEDAfz3O9cyPDru5eStX4=s512",
-    "notipkg" : "music.player.musicplayernew"
+    "notipkg" : "bestplayer.freeplayer.videoplayer2019"
 }
  
 ]
