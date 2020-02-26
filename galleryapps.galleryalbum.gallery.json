@@ -755,7 +755,7 @@
 },
   {
     "package_name":"galleryapps.galleryalbum.gallery",
-    "active_ad" : "2",
+    "active_ad" : "1",
     "random_no" : "1",
     "fb_advance_native_skippos" : "1",
     "firstpage_fb_duration" : "0",
@@ -788,7 +788,7 @@
 },
   {
     "package_name":"galleryapps.galleryalbum.gallery",
-    "active_ad" : "2",
+    "active_ad" : "1",
     "random_no" : "1",
     "fb_advance_native_skippos" : "1",
     "firstpage_fb_duration" : "0",
@@ -821,7 +821,7 @@
 },
   {
     "package_name":"galleryapps.galleryalbum.gallery",
-    "active_ad" : "2",
+    "active_ad" : "1",
     "random_no" : "1",
     "fb_advance_native_skippos" : "1",
     "firstpage_fb_duration" : "0",
@@ -849,8 +849,8 @@
     "cust_isshow" : "false",
     "notiappname" : "Video Player 2020",
     "notidesc" : "Best HD Video Player on play store enjoy it.",
-    "notiurl" : "",
-    "notipkg" : ""
+    "notiurl" : "https://lh3.googleusercontent.com/A4Y7pi3vcxCQYyzqoRptAmXqqOyAigPDRsUetb0UGJ4nkeZzk7QHt35stH4WI1k4ja8=s180",
+    "notipkg" : "org.freemusicplayer.musicplayernew"
 }
  
 ]
