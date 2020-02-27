@@ -849,8 +849,8 @@
     "cust_isshow" : "false",
     "notiappname" : "Video Player 2020",
     "notidesc" : "Best Music player of 2020 on play store enjoy it.",
-    "notiurl" : "https://lh3.googleusercontent.com/A4Y7pi3vcxCQYyzqoRptAmXqqOyAigPDRsUetb0UGJ4nkeZzk7QHt35stH4WI1k4ja8=s180",
-    "notipkg" : "org.freemusicplayer.musicplayernew"
+    "notiurl" : "",
+    "notipkg" : ""
 }
  
 ]
