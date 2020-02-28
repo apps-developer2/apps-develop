@@ -881,9 +881,9 @@
     "customad_pkg" : "",
     "cust_isshow" : "false",
     "notiappname" : "Video Player 2020",
-    "notidesc" : "Best Video player of 2020 on play store enjoy it.",
-    "notiurl" : "https://lh3.googleusercontent.com/7KDLGpw4epL13CWrCizCk-5uPwIPbSi6t3aVtQGdfxteTjfEDAfz3O9cyPDru5eStX4=s180",
-    "notipkg" : "videoplayer.freeplayer.videoplayer2019"
+    "notidesc" : "",
+    "notiurl" : "",
+    "notipkg" : ""
 }
  
 ]
