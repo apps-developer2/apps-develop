@@ -8,8 +8,8 @@
     "fb_advance_native_skippos" : "9",
     "firstpage_fb_duration" : "0",
     "IsAdshowOneTime" : "true",
-    "google_ad_interestial": "ca-app-pub-5308403731432601/4494547190",
-    "google_banner" : "ca-app-pub-5308403731432601/1826777984",
+    "google_ad_interestial": "ca-app-pub-6113069574875874/4961815975",
+    "google_banner" : "ca-app-pub-6113069574875874/8821169935",
     "fb_ad_interestial" : "431601424275284_431603724275054",
     "fb_ad_interestial_duration" : "800",
     "fb_advance_native_adid" : "",
@@ -27,9 +27,9 @@
     "customad_pkg" : "bestplayer.freeplayer.videoplayer",
     "cust_isshow" : "true",
     "notiappname" : "BoyzPix - Photo Editor and Beard Maker",
-    "notidesc" : "BoyzPix - Photo Editor and Beard Maker Newest app for boys and Girls",
-    "notiurl" : "",
-    "notipkg" : "boyzpixphotoeditor.photoeditor.boysphotoeditor"
+     "notidesc" : "Gallery is best for photo album & Space Cleaner & Gallery vault",
+    "notiurl" : "https://lh3.googleusercontent.com/YHbBva9lc0dOXRVRPz96xyzvMoUd-iO4NKJhmAoWjyDOfvV-jCwEdlFepcvrk4V2kQ=s512",
+    "notipkg" : "galleryapps.galleryalbum.gallery2019"
 },
    {
     "package_name":"music.player.musicplayernew",
@@ -38,8 +38,8 @@
     "fb_advance_native_skippos" : "9",
     "firstpage_fb_duration" : "0",
     "IsAdshowOneTime" : "true",
-    "google_ad_interestial": "ca-app-pub-5308403731432601/4494547190",
-    "google_banner" : "ca-app-pub-5308403731432601/1826777984",
+    "google_ad_interestial": "ca-app-pub-6113069574875874/4961815975",
+    "google_banner" : "ca-app-pub-6113069574875874/8821169935",
     "fb_ad_interestial" : "431601424275284_431603724275054",
     "fb_ad_interestial_duration" : "800",
     "fb_advance_native_adid" : "",
@@ -57,9 +57,9 @@
     "customad_pkg" : "bestplayer.freeplayer.videoplayer",
     "cust_isshow" : "true",
     "notiappname" : "BoyzPix - Photo Editor and Beard Maker",
-    "notidesc" : "BoyzPix - Photo Editor and Beard Maker Newest app for boys and Girls",
-    "notiurl" : "",
-    "notipkg" : "boyzpixphotoeditor.photoeditor.boysphotoeditor"
+    "notidesc" : "Gallery is best for photo album & Space Cleaner & Gallery vault",
+    "notiurl" : "https://lh3.googleusercontent.com/YHbBva9lc0dOXRVRPz96xyzvMoUd-iO4NKJhmAoWjyDOfvV-jCwEdlFepcvrk4V2kQ=s512",
+    "notipkg" : "galleryapps.galleryalbum.gallery2019"
 },
    {
     "package_name":"music.player.musicplayernew",
@@ -88,9 +88,9 @@
     "customad_pkg" : "",
     "cust_isshow" : "false",
     "notiappname" : "BoyzPix - Photo Editor and Beard Maker",
-    "notidesc" : "BoyzPix - Photo Editor and Beard Maker Newest app for boys and Girls",
-    "notiurl" : "",
-    "notipkg" : "boyzpixphotoeditor.photoeditor.boysphotoeditor"
+    "notidesc" : "Gallery is best for photo album & Space Cleaner & Gallery vault",
+    "notiurl" : "https://lh3.googleusercontent.com/YHbBva9lc0dOXRVRPz96xyzvMoUd-iO4NKJhmAoWjyDOfvV-jCwEdlFepcvrk4V2kQ=s512",
+    "notipkg" : "galleryapps.galleryalbum.gallery2019"
 }
 ]
 }
