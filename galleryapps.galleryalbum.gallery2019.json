@@ -385,7 +385,7 @@
     "active_ad" : "1",
     "random_no" : "5",
     "fb_advance_native_skippos" : "1",
-    "firstpage_fb_duration" : "0",
+    "firstpage_fb_duration" : "2500",
     "IsAdshowOneTime" : "false",
     "google_ad_reawrdad": "",
     "google_ad_interestial": "ca-app-pub-3940256099942544/1033173712",
