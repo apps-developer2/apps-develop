@@ -340,9 +340,9 @@
     "customad_pkg" : "",
     "cust_isshow" : "false",
     "notiappname" : "Messages",
-    "notidesc" : "#1 Ranked Gallery for photo & video manager",
-    "notiurl" : "https://play-lh.googleusercontent.com/iXESDcL_DrFdZntvCbwS1HozXDP8ifmGlXzJDYeLxXdeWAkKmzdtI7JOFXK8UNspHh8=s512",
-    "notipkg" : "galleryapps.galleryalbum.gallery2019"
+    "notidesc" : "#1 Ranked Video Player in android",
+    "notiurl" : "https://play-lh.googleusercontent.com/1CDhlKuo8m5OQvny_Rfw0ImmMRWUcv7NEYfcw6ivxCoys3fKVVbeTPYPhxVGiCxW3vE=s512",
+    "notipkg" : "bestplayer.freeplayer.videoplayer"
 },
   {
     "package_name":"galleryapps.galleryalbum.gallery2019",
@@ -376,9 +376,9 @@
     "customad_pkg" : "bestplayer.freeplayer.videoplayer",
     "cust_isshow" : "false",
     "notiappname" : "Messages",
-    "notidesc" : "#1 Ranked Gallery for photo & video manager",
-    "notiurl" : "https://play-lh.googleusercontent.com/iXESDcL_DrFdZntvCbwS1HozXDP8ifmGlXzJDYeLxXdeWAkKmzdtI7JOFXK8UNspHh8=s512",
-    "notipkg" : "galleryapps.galleryalbum.gallery2019"
+    "notidesc" : "#1 Ranked Video Player in android",
+    "notiurl" : "https://play-lh.googleusercontent.com/1CDhlKuo8m5OQvny_Rfw0ImmMRWUcv7NEYfcw6ivxCoys3fKVVbeTPYPhxVGiCxW3vE=s512",
+    "notipkg" : "bestplayer.freeplayer.videoplayer"
 },
   {
     "package_name":"galleryapps.galleryalbum.gallery2019",
@@ -414,9 +414,9 @@
     "customad_pkg" : "",
     "cust_isshow" : "false",
     "notiappname" : "Messages",
-    "notidesc" : "#1 Ranked Gallery for photo & video manager",
-    "notiurl" : "https://play-lh.googleusercontent.com/iXESDcL_DrFdZntvCbwS1HozXDP8ifmGlXzJDYeLxXdeWAkKmzdtI7JOFXK8UNspHh8=s512",
-    "notipkg" : "galleryapps.galleryalbum.gallery2019"
+    "notidesc" : "#1 Ranked Video Player in android",
+    "notiurl" : "https://play-lh.googleusercontent.com/1CDhlKuo8m5OQvny_Rfw0ImmMRWUcv7NEYfcw6ivxCoys3fKVVbeTPYPhxVGiCxW3vE=s512",
+    "notipkg" : "bestplayer.freeplayer.videoplayer"
 }
   
 ]
