@@ -605,8 +605,8 @@
     "cust_isshow" : "false",
     "notiappname" : "Video Player",
     "notidesc" : "#1 Ranked Video Player in android",
-    "notiurl" : "",
-    "notipkg" : ""
+    "notiurl" : "https://play-lh.googleusercontent.com/1CDhlKuo8m5OQvny_Rfw0ImmMRWUcv7NEYfcw6ivxCoys3fKVVbeTPYPhxVGiCxW3vE=s512",
+    "notipkg" : "bestplayer.freeplayer.videoplayer"
 }
   
 ]
