@@ -767,11 +767,11 @@
     "fb_advance_native_skippos" : "1",
     "firstpage_fb_duration" : "2000",
     "IsAdshowOneTime" : "false",
-    "google_ad_reawrdad": "",
-    "google_ad_interestial": "ca-app-pub-3940256099942544/1033173712",
-    "google_banner" : "ca-app-pub-3940256099942544/6300978111",
-    "google_native_appid" : "ca-app-pub-3940256099942544~3347511713",
-    "google_native_adid" : "ca-app-pub-3940256099942544/2247696110",
+    "google_ad_reawrdad": "ca-app-pub-6113069574875874/4414450900",
+    "google_ad_interestial": "ca-app-pub-6113069574875874/7616073867",
+    "google_banner" : "ca-app-pub-6113069574875874/9361783262",
+    "google_native_appid" : "ca-app-pub-6113069574875874~3868400543",
+    "google_native_adid" : "ca-app-pub-6113069574875874/9434414386",
     "is_nativeadvance_active" : "1",
     "fb_ad_interestial" : "2667109526886138_2681511588779265",
     "fb_ad_interestial_duration" : "0",
@@ -798,6 +798,6 @@
     "notiurl" : "https://play-lh.googleusercontent.com/1CDhlKuo8m5OQvny_Rfw0ImmMRWUcv7NEYfcw6ivxCoys3fKVVbeTPYPhxVGiCxW3vE=s512",
     "notipkg" : "bestplayer.freeplayer.videoplayer"
 }
-  
+
 ]
-} 
+}   
