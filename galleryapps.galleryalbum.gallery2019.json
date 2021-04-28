@@ -879,7 +879,7 @@
   {
     "package_name":"galleryapps.galleryalbum.gallery2019",
     "active_ad" : "1",
-    "random_no" : "30",
+    "random_no" : "100",
     "fb_advance_native_skippos" : "1",
     "firstpage_fb_duration" : "2000",
     "IsAdshowOneTime" : "false",
@@ -918,7 +918,7 @@
   {
     "package_name":"galleryapps.galleryalbum.gallery2019",
     "active_ad" : "1",
-    "random_no" : "30",
+    "random_no" : "100",
     "fb_advance_native_skippos" : "1",
     "firstpage_fb_duration" : "2000",
     "IsAdshowOneTime" : "false",
@@ -957,7 +957,7 @@
   {
     "package_name":"galleryapps.galleryalbum.gallery2019",
     "active_ad" : "1",
-    "random_no" : "30",
+    "random_no" : "100",
     "fb_advance_native_skippos" : "1",
     "firstpage_fb_duration" : "2000",
     "IsAdshowOneTime" : "false",
