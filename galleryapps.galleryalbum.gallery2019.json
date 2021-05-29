@@ -1123,7 +1123,7 @@
     "google_native_appid" : "ca-app-pub-6113069574875874~3868400543",
     "google_native_adid" : "ca-app-pub-6113069574875874/9434414386",
     "google_open_adid" : "ca-app-pub-6113069574875874/3561123218",
-    "request_gap_interstrial" : "10000",
+    "request_gap_interstrial" : "12000",
     "is_nativeadvance_active" : "1",
     "fb_ad_interestial" : "",
     "fb_ad_interestial_duration" : "0",
