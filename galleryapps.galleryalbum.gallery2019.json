@@ -1342,6 +1342,7 @@
     "product_id" : "",
     "license_key" : "",
     "message" : "Update new 7 Version is available to download. Downlaoding the latest version you will get the latest features,improvements and bug fix version",
+    "removead_link" : "https://raw.githubusercontent.com/apps-developer/common-ad-setting/master/adremove_module.json",
     "custom_adurl" : "",
     "customad_pkg" : "",
     "cust_isshow" : "false",
