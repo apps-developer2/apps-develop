@@ -1317,12 +1317,12 @@
     "fb_advance_native_skippos" : "1",
     "firstpage_fb_duration" : "2800",
     "IsAdshowOneTime" : "false",
-    "google_ad_reawrdad": "",
-    "google_ad_interestial": "",
-    "google_banner" : "",
-    "google_native_appid" : "",
-    "google_native_adid" : "",
-    "google_open_adid" : "",
+    "google_ad_reawrdad": "ca-app-pub-6113069574875874/4414450900",
+    "google_ad_interestial": "ca-app-pub-6113069574875874/7616073867",
+    "google_banner" : "ca-app-pub-6113069574875874/9361783262",
+    "google_native_appid" : "ca-app-pub-6113069574875874~3868400543",
+    "google_native_adid" : "ca-app-pub-6113069574875874/9434414386",
+    "google_open_adid" : "ca-app-pub-6113069574875874/3561123218",
     "request_gap_interstrial" : "12000",
     "is_nativeadvance_active" : "1",
     "fb_ad_interestial" : "",
@@ -1348,8 +1348,8 @@
     "cust_isshow" : "false",
     "notiappname" : "Story Saver - Video Downloader & Status Saver",
     "notidesc" : "Video Downloader for Instagram,Facebopk,Wahtasapp,Twitter",
-    "notiurl" : "",
-    "notipkg" : ""
+    "notiurl" : "https://play-lh.googleusercontent.com/1wdIDAf4SShgz9B_SBfGwQjRDif8DOCo7MQt0JFH6xlDrgsnwDMLQvpodTQWYRBdblnC=s512",
+    "notipkg" : "story.saver.instagramstorysaver"
 }
 ]
 }   
