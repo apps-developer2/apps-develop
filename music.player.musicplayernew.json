@@ -98,7 +98,7 @@
     "random_no" : "1",
     "fb_advance_native_skippos" : "15",
     "firstpage_fb_duration" : "3000",
-    "IsAdshowOneTime" : "true",
+    "IsAdshowOneTime" : "false",
     "IsAdshowOnBack" : "false",
     "google_ad_reawrdad" : "",
     "google_ad_interestial": "ca-app-pub-3940256099942544/1033173712",
