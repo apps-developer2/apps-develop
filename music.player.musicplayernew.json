@@ -109,7 +109,7 @@
     "request_gap_interstrial" : "8000",
     "is_nativeadvance_active" : "1",
     "fb_ad_interestial" : "",
-    "fb_ad_interestial_duration" : "0",
+    "fb_ad_interestial_duration" : "1500",
     "fb_advance_native_adid" : "",
     "fb_nativebanner" : "",
     "active_banner_ad" : "1",
