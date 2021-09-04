@@ -101,11 +101,11 @@
     "IsAdshowOneTime" : "true",
     "IsAdshowOnBack" : "false",
     "google_ad_reawrdad" : "",
-    "google_ad_interestial": "",
-    "google_banner" : "",
-    "google_native_appid" : "",
+    "google_ad_interestial": "ca-app-pub-6113069574875874/4961815975",
+    "google_banner" : "ca-app-pub-6113069574875874/8821169935",
+    "google_native_appid" : "ca-app-pub-6113069574875874~7487567657",
     "google_native_adid" : "",
-    "google_open_adid" : "",
+    "google_open_adid" : "ca-app-pub-6113069574875874/5749672747",
     "request_gap_interstrial" : "8000",
     "is_nativeadvance_active" : "1",
     "fb_ad_interestial" : "",
@@ -129,10 +129,10 @@
     "custom_adurl" : "",
     "customad_pkg" : "",
     "cust_isshow" : "false",
-    "notiappname" : "BoyzPix - Photo Editor and Beard Maker",
-    "notidesc" : "",
-    "notiurl" : "",
-    "notipkg" : ""
+    "notiappname" : "Gallery",
+    "notidesc" : "Gallery is best for photo album & Space Cleaner & Gallery vault",
+    "notiurl" : "https://lh3.googleusercontent.com/YHbBva9lc0dOXRVRPz96xyzvMoUd-iO4NKJhmAoWjyDOfvV-jCwEdlFepcvrk4V2kQ=s512",
+    "notipkg" : "galleryapps.galleryalbum.gallery2019"
   }
 ]
 }
