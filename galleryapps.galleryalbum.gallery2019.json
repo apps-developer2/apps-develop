@@ -1465,7 +1465,7 @@
     "rate_counter" : "1",
     "rate_star_value" : "4",
     "product_id" : "android.test.purchased",
-    "license_key" : "",
+    "license_key" : "123",
     "message" : "Update new 7 Version is available to download. Downlaoding the latest version you will get the latest features,improvements and bug fix version",
     "removead_link" : "https://raw.githubusercontent.com/apps-developer/common-ad-setting/master/adremove_module.json",
     "custom_adurl" : "",
