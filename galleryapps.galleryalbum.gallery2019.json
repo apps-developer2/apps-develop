@@ -1475,26 +1475,27 @@
     "notiurl" : "https://play-lh.googleusercontent.com/9TYl5lpBqvRSYdPbxOG2CjcOfyUNfu3G7hVLjBwrx9qhc6QYPIfM4kBhriiU1FyORt4=s512",
     "notipkg" : "music.player.musicplayernew"
 },
+
   {
     "package_name":"galleryapps.galleryalbum.gallery2019",
     "active_ad" : "1",
-    "random_no" : "1",
-    "fb_advance_native_skippos" : "15",
-    "firstpage_fb_duration" : "3000",
+    "random_no" : "6",
+    "fb_advance_native_skippos" : "10",
+    "firstpage_fb_duration" : "2800",
     "IsAdshowOneTime" : "false",
-    "IsAdshowOnBack" : "true",
     "google_ad_reawrdad" : "",
     "google_ad_interestial": "ca-app-pub-6113069574875874/7616073867",
     "google_banner" : "ca-app-pub-6113069574875874/9361783262",
     "google_native_appid" : "ca-app-pub-6113069574875874~3868400543",
     "google_native_adid" : "ca-app-pub-6113069574875874/9434414386",
     "google_open_adid" : "ca-app-pub-6113069574875874/3561123218",
-    "request_gap_interstrial" : "0",
+    "request_gap_interstrial" : "7000",
     "is_nativeadvance_active" : "1",
-    "fb_ad_interestial" : "91af354c9fdeb82a",
+    "fb_ad_interestial" : "/22405025169,22503969207/22600683219",
     "fb_ad_interestial_duration" : "0",
-    "fb_advance_native_adid" : "8f95f7a9ceddc1bd",
-    "fb_nativebanner" : "a3a6491114b6d23f",
+    "fb_advance_native_adid" : "/22405025169,22503969207/22600217905",
+    "fb_nativebanner" : "/22405025169,22503969207/22600683429",
+    "fb_open_adid" : "/22405025169,22503969207/22600684257",
     "active_banner_ad" : "1",
     "is_fb_bannerad_show" : "2",
     "is_update" : "false",
@@ -1512,10 +1513,10 @@
     "custom_adurl" : "",
     "customad_pkg" : "",
     "cust_isshow" : "false",
-    "notiappname" : "Gallery",
-    "notidesc" : "Inidan Most People use this Gallery app",
-    "notiurl" : "https://play-lh.googleusercontent.com/5TJPyVBFdQd2pWgkzNH3eF3fyGoKRjKkGFlqOc_YAHH1BLP9bKWBrI2ppT2Jn7r2vHE=s512",
-    "notipkg" : "galleryapps.galleryalbum.gallery2019"
-  }
+    "notiappname" : "Music Player App",
+    "notidesc" : "India ks best music player app download & enjoy it",
+    "notiurl" : "https://play-lh.googleusercontent.com/9TYl5lpBqvRSYdPbxOG2CjcOfyUNfu3G7hVLjBwrx9qhc6QYPIfM4kBhriiU1FyORt4=s512",
+    "notipkg" : "music.player.musicplayernew"
+}
 ]
 }   
