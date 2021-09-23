@@ -1479,7 +1479,7 @@
   {
     "package_name":"galleryapps.galleryalbum.gallery2019",
     "active_ad" : "1",
-    "random_no" : "5",
+    "random_no" : "6",
     "fb_advance_native_skippos" : "10",
     "firstpage_fb_duration" : "3000",
     "IsAdshowOneTime" : "false",
@@ -1489,7 +1489,7 @@
     "google_native_appid" : "ca-app-pub-6113069574875874~3868400543",
     "google_native_adid" : "ca-app-pub-6113069574875874/9434414386",
     "google_open_adid" : "/22405025169,22602898820/22600684257",
-    "request_gap_interstrial" : "8000",
+    "request_gap_interstrial" : "7000",
     "is_nativeadvance_active" : "1",
     "fb_ad_interestial" : "ca-app-pub-6113069574875874/7616073867",
     "fb_ad_interestial_duration" : "0",
