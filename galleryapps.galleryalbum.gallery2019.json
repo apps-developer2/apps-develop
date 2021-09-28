@@ -1470,10 +1470,10 @@
     "custom_adurl" : "",
     "customad_pkg" : "",
     "cust_isshow" : "false",
-    "notiappname" : "Music Player App",
-    "notidesc" : "India ks best music player app download & enjoy it",
-    "notiurl" : "https://play-lh.googleusercontent.com/9TYl5lpBqvRSYdPbxOG2CjcOfyUNfu3G7hVLjBwrx9qhc6QYPIfM4kBhriiU1FyORt4=s512",
-    "notipkg" : "music.player.musicplayernew"
+    "notiappname" : "Video Player",
+    "notidesc" : "#1 Ranked Video Player in android",
+    "notiurl" : "https://play-lh.googleusercontent.com/1CDhlKuo8m5OQvny_Rfw0ImmMRWUcv7NEYfcw6ivxCoys3fKVVbeTPYPhxVGiCxW3vE=s512",
+    "notipkg" : "bestplayer.freeplayer.videoplayer"
 },
 
   {
@@ -1513,10 +1513,10 @@
     "custom_adurl" : "",
     "customad_pkg" : "",
     "cust_isshow" : "false",
-    "notiappname" : "Music Player App",
-    "notidesc" : "India ks best music player app download & enjoy it",
-    "notiurl" : "https://play-lh.googleusercontent.com/9TYl5lpBqvRSYdPbxOG2CjcOfyUNfu3G7hVLjBwrx9qhc6QYPIfM4kBhriiU1FyORt4=s512",
-    "notipkg" : "music.player.musicplayernew"
+    "notiappname" : "Video Player",
+    "notidesc" : "#1 Ranked Video Player in android",
+    "notiurl" : "https://play-lh.googleusercontent.com/1CDhlKuo8m5OQvny_Rfw0ImmMRWUcv7NEYfcw6ivxCoys3fKVVbeTPYPhxVGiCxW3vE=s512",
+    "notipkg" : "bestplayer.freeplayer.videoplayer"
 }
   
 ]
