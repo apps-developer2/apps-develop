@@ -3,7 +3,7 @@
  "info": [
    {
     "package_name":"music.player.musicplayernew",
-    "active_ad" : "2",
+    "active_ad" : "1",
     "random_no" : "1",
     "fb_advance_native_skippos" : "9",
     "firstpage_fb_duration" : "0",
@@ -15,7 +15,7 @@
     "fb_advance_native_adid" : "",
     "fb_nativebanner" : "431601424275284_431602310941862",
     "is_fb_bannerad_show" : "2",
-    "active_banner_ad" : "2",
+    "active_banner_ad" : "1",
     "is_update" : "false",
     "is_forcefully": "false",
     "is_live" : "true",
@@ -33,7 +33,7 @@
 },
    {
     "package_name":"music.player.musicplayernew",
-    "active_ad" : "2",
+    "active_ad" : "1",
     "random_no" : "1",
     "fb_advance_native_skippos" : "9",
     "firstpage_fb_duration" : "0",
@@ -45,7 +45,7 @@
     "fb_advance_native_adid" : "",
     "fb_nativebanner" : "431601424275284_431602310941862",
     "is_fb_bannerad_show" : "2",
-    "active_banner_ad" : "2",
+    "active_banner_ad" : "1",
     "is_update" : "false",
     "is_forcefully": "false",
     "is_live" : "true",
