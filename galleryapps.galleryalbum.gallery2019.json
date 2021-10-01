@@ -1536,7 +1536,7 @@
     "is_nativeadvance_active" : "1",
     "adex_ad_interestial" : "",
     "adex_ad_interestial_duration" : "0",
-    "fb_advance_native_adid" : "5",
+    "adex_advance_native_adid" : "5",
     "adex_nativebanner" : "",
     "adex_open_adid" : "",
     "applovin_interstrial" : "91af354c9fdeb82a",
