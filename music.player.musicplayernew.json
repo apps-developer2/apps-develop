@@ -179,7 +179,7 @@
 },
    {
     "package_name":"music.player.musicplayernew",
-    "active_ad" : "2",
+    "active_ad" : "4",
     "random_no" : "4",
     "fb_advance_native_skippos" : "10",
     "firstpage_fb_duration" : "3000",
@@ -201,7 +201,7 @@
     "applovin_interstrial" : "",
     "applovin_banner" : "",
     "applovin_native_advance" : "",
-    "active_banner_ad" : "2",
+    "active_banner_ad" : "4",
     "is_fb_bannerad_show" : "2",
     "is_update" : "false",
     "is_forcefully": "false",
