@@ -190,7 +190,7 @@
     "google_banner" : "",
     "google_native_appid" : ".",
     "google_native_adid" : "",
-    "google_open_adid" : "",
+    "google_open_adid" : " ",
     "request_gap_interstrial" : "7000",
     "is_nativeadvance_active" : "2",
     "adex_ad_interestial" : "/22405025169,22602898820/22600684719",
