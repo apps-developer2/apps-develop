@@ -180,10 +180,10 @@
    {
     "package_name":"music.player.musicplayernew",
     "active_ad" : "2",
-    "random_no" : "4",
+    "random_no" : "1",
     "fb_advance_native_skippos" : "10",
     "firstpage_fb_duration" : "3000",
-    "IsAdshowOneTime" : "false",
+    "IsAdshowOneTime" : "true",
     "IsAdshowOnBack" : "true",
     "google_ad_reawrdad" : "",
     "google_ad_interestial": "",
