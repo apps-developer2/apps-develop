@@ -283,7 +283,7 @@
     "google_native_appid" : "ca-app-pub-6113069574875874~7487567657",
     "google_native_adid" : "ca-app-pub-6113069574875874/2678398641",
     "google_open_adid" : "ca-app-pub-6113069574875874/7515992045",
-    "request_gap_interstrial" : "9000",
+    "request_gap_interstrial" : "12000",
     "is_nativeadvance_active" : "2",
     "adex_ad_interestial" : "/22405025169,22602898820/music.player.musicplayernew.Interstitial",
     "adex_ad_interestial_duration" : "1500",
