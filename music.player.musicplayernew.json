@@ -280,7 +280,7 @@
     "google_ad_reawrdad" : "",
     "google_ad_interestial": "",
     "google_banner" : "",
-    "google_native_appid" : "",
+    "google_native_appid" : ".",
     "google_native_adid" : "",
     "google_open_adid" : "",
     "request_gap_interstrial" : "9000",
