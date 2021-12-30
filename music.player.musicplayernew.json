@@ -323,6 +323,7 @@
     "splashscreen_duration" : "3200",
     "isappOpen_showin_splash" : "1",
     "IsAdshowOneTime" : "false",
+    "IsAdshowOneBack" : "true",
     "google_ad_reawrdad" : "",
     "google_ad_interestial": "",
     "google_banner" : "",
