@@ -364,7 +364,7 @@
 },
    {
     "package_name":"music.player.musicplayernew",
-    "active_ad" : "1",
+    "active_ad" : "2",
     "random_no" : "4",
     "fb_advance_native_skippos" : "10",
     "splashscreen_duration" : "3200",
