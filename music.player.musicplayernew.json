@@ -322,7 +322,7 @@
     "fb_advance_native_skippos" : "10",
     "splashscreen_duration" : "3200",
     "isappOpen_showin_splash" : "1",
-    "IsAdshowOneTime" : "false",
+    "IsAdshowOneTime" : "true",
     "IsAdshowOneBack" : "false",
     "google_ad_reawrdad" : "",
     "adex_ad_interestial" : "/22405025169,22602898820/music.player.musicplayernew.Interstitial",
