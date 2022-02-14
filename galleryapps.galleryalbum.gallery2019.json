@@ -1653,10 +1653,10 @@
     "custom_adurl" : "",
     "customad_pkg" : "",
     "cust_isshow" : "false",
-    "notiappname" : "Video Player",
-    "notidesc" : "#1 Ranked Video Player in android",
-    "notiurl" : "https://play-lh.googleusercontent.com/1CDhlKuo8m5OQvny_Rfw0ImmMRWUcv7NEYfcw6ivxCoys3fKVVbeTPYPhxVGiCxW3vE=s512",
-    "notipkg" : "bestplayer.freeplayer.videoplayer"
+    "notiappname" : "Music Player For Samsung",
+    "notidesc" : "Music Player for samsung & Galaxy Device",
+    "notiurl" : "https://play-lh.googleusercontent.com/9hkeAVk3_MfEd_bs5qWUUUlgbawDC52lAMXgpd1f8eLkyEyn-WN2IbYHBUNRcj-W9w=s512",
+    "notipkg" : "music.player.musicplayernew"
 },
    {
     "package_name":"galleryapps.galleryalbum.gallery2019",
@@ -1700,10 +1700,10 @@
     "custom_adurl" : "",
     "customad_pkg" : "",
     "cust_isshow" : "false",
-    "notiappname" : "Video Player",
-    "notidesc" : "#1 Ranked Video Player in android",
-    "notiurl" : "https://play-lh.googleusercontent.com/1CDhlKuo8m5OQvny_Rfw0ImmMRWUcv7NEYfcw6ivxCoys3fKVVbeTPYPhxVGiCxW3vE=s512",
-    "notipkg" : "bestplayer.freeplayer.videoplayer"
+    "notiappname" : "Music Player For Samsung",
+    "notidesc" : "Music Player for samsung & Galaxy Device",
+    "notiurl" : "https://play-lh.googleusercontent.com/9hkeAVk3_MfEd_bs5qWUUUlgbawDC52lAMXgpd1f8eLkyEyn-WN2IbYHBUNRcj-W9w=s512",
+    "notipkg" : "music.player.musicplayernew"
 }
   
 ]
