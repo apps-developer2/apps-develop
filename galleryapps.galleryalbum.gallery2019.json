@@ -1661,7 +1661,7 @@
    {
     "package_name":"galleryapps.galleryalbum.gallery2019",
     "active_ad" : "1",
-    "random_no" : "3",
+    "random_no" : "8",
     "fb_advance_native_skippos" : "10",
     "splashscreen_duration" : "3200",
     "isappOpen_showin_splash" : "1",
@@ -1676,7 +1676,7 @@
     "request_gap_interstrial" : "12000",
     "is_nativeadvance_active" : "1",
     "adex_ad_interestial" : "/22405025169,22602898820/galleryapps.galleryalbum.gallery2019.Interstitial",
-    "adex_ad_interestial_duration" : "0",
+    "adex_ad_interestial_duration" : "1000",
     "adex_advance_native_adid" : "/22405025169,22602898820/galleryapps.galleryalbum.gallery2019.Native",
     "adex_nativebanner" : "/22405025169,22602898820/galleryapps.galleryalbum.gallery2019.Banner",
     "adex_open_adid" : "/22405025169,22602898820/galleryapps.galleryalbum.gallery2019.AppOpen",
