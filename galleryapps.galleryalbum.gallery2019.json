@@ -1713,7 +1713,7 @@
     "splashscreen_duration" : "3500",
     "isappOpen_showin_splash" : "1",
     "IsAdshowOneTime" : "false",
-    "IsAdshowOneBack" : "false",
+    "IsAdshowOneBack" : "true",
     "google_ad_reawrdad" : "",
     "google_ad_interestial": "ca-app-pub-6113069574875874/2513122979",
     "google_banner" : "ca-app-pub-6113069574875874/7588521532",
