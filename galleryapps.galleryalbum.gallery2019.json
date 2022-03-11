@@ -1673,7 +1673,7 @@
     "google_native_appid" : "ca-app-pub-6113069574875874~3868400543",
     "google_native_adid" : "ca-app-pub-6113069574875874/8411143455",
     "google_open_adid" : "ca-app-pub-6113069574875874/5098923713",
-    "request_gap_interstrial" : "15000",
+    "request_gap_interstrial" : "19000",
     "is_nativeadvance_active" : "1",
     "adex_ad_interestial" : "/22405025169,22602898820/galleryapps.galleryalbum.gallery2019.Interstitial",
     "adex_ad_interestial_duration" : "0",
