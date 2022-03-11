@@ -1723,7 +1723,7 @@
     "fb_interstrial_adid" : "2667109526886138_2681511588779265",
     "fb_native_advance_adid" : "2667109526886138_3006833872913700",
     "fb_banner_adid" : "2667109526886138_2934057793524642",
-    "request_gap_interstrial" : "15000",
+    "request_gap_interstrial" : "20000",
     "is_nativeadvance_active" : "1",
     "adex_ad_interestial" : "/22405025169,22602898820/galleryapps.galleryalbum.gallery2019.Interstitial",
     "adex_ad_interestial_duration" : "0",
