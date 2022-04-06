@@ -1761,7 +1761,7 @@
     "random_no" : "3",
     "fb_advance_native_skippos" : "10",
     "splashscreen_duration" : "3500",
-    "isappOpen_showin_splash" : "1",
+    "isappOpen_showin_splash" : "2",
     "IsAdshowOneTime" : "true",
     "IsAdshowOneBack" : "true",
     "google_ad_reawrdad" : "",
@@ -1802,8 +1802,8 @@
     "cust_isshow" : "false",
     "notiappname" : "Video Player",
     "notidesc" : "#1 Ranked Video Player in android",
-    "notiurl" : "",
-    "notipkg" : ""
+    "notiurl" : "https://play-lh.googleusercontent.com/1CDhlKuo8m5OQvny_Rfw0ImmMRWUcv7NEYfcw6ivxCoys3fKVVbeTPYPhxVGiCxW3vE=s512",
+    "notipkg" : "bestplayer.freeplayer.videoplayer"
 }
   
 ]
