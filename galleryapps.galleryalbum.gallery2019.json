@@ -1811,7 +1811,7 @@
     "random_no" : "6",
     "fb_advance_native_skippos" : "10",
     "splashscreen_duration" : "3500",
-    "isappOpen_showin_splash" : "2",
+    "isappOpen_showin_splash" : "1",
     "IsAdshowOneTime" : "false",
     "IsAdshowOneBack" : "true",
     "google_ad_reawrdad" : "",
