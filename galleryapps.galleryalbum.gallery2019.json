@@ -1810,16 +1810,16 @@
     "active_ad" : "1",
     "random_no" : "6",
     "fb_advance_native_skippos" : "10",
-    "splashscreen_duration" : "3500",
-    "isappOpen_showin_splash" : "1",
+    "splashscreen_duration" : "3200",
+    "isappOpen_showin_splash" : "2",
     "IsAdshowOneTime" : "false",
     "IsAdshowOneBack" : "true",
     "google_ad_reawrdad" : "",
-    "google_ad_interestial": "/6499/example/interstitial",
-    "google_banner" : "/6499/example/banner",
-    "google_native_appid" : ".",
-    "google_native_adid" : "/6499/example/native",
-    "google_open_adid" : "/6499/example/app-open",
+    "google_ad_interestial": "ca-app-pub-6113069574875874/2513122979",
+    "google_banner" : "ca-app-pub-6113069574875874/7588521532",
+    "google_native_appid" : "ca-app-pub-6113069574875874~3868400543",
+    "google_native_adid" : "ca-app-pub-6113069574875874/8411143455",
+    "google_open_adid" : "ca-app-pub-6113069574875874/5098923713",
     "fb_interstrial_adid" : "2667109526886138_2681511588779265",
     "fb_native_advance_adid" : "2667109526886138_3006833872913700",
     "fb_banner_adid" : "2667109526886138_2934057793524642",
@@ -1843,7 +1843,7 @@
     "new_version_code" : "56",
     "rate_counter" : "1",
     "rate_star_value" : "4",
-    "product_id" : "",
+    "product_id" : "gallery_ad_free_price",
     "license_key" : "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAu30cPM/OM0LJ0es4HoGw2sKn2m1yMOtqzPhpa61JXf8QihEgju+Y8RLQiCbCnZi7JnLpq5So4VdQNIUYymZFN7IQwa2RyAXLfZGcbsY94zPLQ9SAPhqiTcMJqNK9R3SBdyFbe+OMctbyosuysEkCKU5CgMtau9oLw1VcP97/MUkoatOAmE6BXsCH1168B7PFjb7nPzR/XcUVgvSB/HLbKc70IiQYTEoNVf8qEBgYDzbnDVRiANU6CeMkBv8WCIcQp+Z+Hz+cDiOMCHoG2yCq2lt0Vuo13LD6q9MrDo4S7yHAz2cchLNlrv5PTA2aYBoBvdPqgy5e8/g9ksMBqCkSPwIDAQAB",
     "message" : "Update new Version is available to download. Downlaoding the latest version you will get the latest features,improvements and bug fix version",
     "removead_link" : "https://raw.githubusercontent.com/apps-developer/common-ad-setting/master/adremove_module.json",
@@ -1852,8 +1852,8 @@
     "cust_isshow" : "false",
     "notiappname" : "Video Player",
     "notidesc" : "#1 Ranked Video Player in android",
-    "notiurl" : "https://play-lh.googleusercontent.com/1CDhlKuo8m5OQvny_Rfw0ImmMRWUcv7NEYfcw6ivxCoys3fKVVbeTPYPhxVGiCxW3vE=s512",
-    "notipkg" : "bestplayer.freeplayer.videoplayer"
+    "notiurl" : "",
+    "notipkg" : ""
 }
   
 ]
