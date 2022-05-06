@@ -1812,7 +1812,7 @@
     "fb_advance_native_skippos" : "10",
     "splashscreen_duration" : "3500",
     "isappOpen_showin_splash" : "2",
-    "IsAdshowOneTime" : "true",
+    "IsAdshowOneTime" : "false",
     "IsAdshowOneBack" : "true",
     "google_ad_reawrdad" : "",
     "google_ad_interestial": "ca-app-pub-6113069574875874/2513122979",
