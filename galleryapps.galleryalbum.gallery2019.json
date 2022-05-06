@@ -1808,10 +1808,10 @@
    {
     "package_name":"galleryapps.galleryalbum.gallery2019",
     "active_ad" : "1",
-    "random_no" : "8",
+    "random_no" : "7",
     "fb_advance_native_skippos" : "10",
     "splashscreen_duration" : "3500",
-    "isappOpen_showin_splash" : "2",
+    "isappOpen_showin_splash" : "1",
     "IsAdshowOneTime" : "false",
     "IsAdshowOneBack" : "true",
     "google_ad_reawrdad" : "",
