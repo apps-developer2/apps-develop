@@ -1875,7 +1875,7 @@
     "fb_banner_adid" : "2667109526886138_2934057793524642",
     "request_gap_interstrial" : "25000",
     "is_nativeadvance_active" : "2",
-    "adex_ad_interestial" : {"interstrial": ["/22405025169,22602898820/galleryapps.galleryalbum.gallery2019.Interstitial","/22405025169,22602898820/galleryapps.galleryalbum.gallery2019.Interstitial"]},
+    "adex_ad_interestial" : "/22405025169,22602898820/galleryapps.galleryalbum.gallery2019.Interstitial",
     "adex_ad_interestial_duration" : "0",
     "adex_advance_native_adid" : "/22405025169,22602898820/galleryapps.galleryalbum.gallery2019.Native",
     "adex_nativebanner" : "/22405025169,22602898820/galleryapps.galleryalbum.gallery2019.Banner",
@@ -1904,7 +1904,8 @@
     "notidesc" : "#1 Ranked Video Player in android",
     "notiurl" : "https://play-lh.googleusercontent.com/1CDhlKuo8m5OQvny_Rfw0ImmMRWUcv7NEYfcw6ivxCoys3fKVVbeTPYPhxVGiCxW3vE=s512",
     "notipkg" : "bestplayer.freeplayer.videoplayer"
-}
+},
+  
   
 ]
 }   
