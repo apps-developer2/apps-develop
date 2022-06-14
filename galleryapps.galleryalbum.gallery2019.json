@@ -1908,13 +1908,13 @@
 
    {
     "package_name":"galleryapps.galleryalbum.gallery2019",
-    "active_ad" : "1",
+    "active_ad" : "6",
     "random_no" : "8",
     "fb_advance_native_skippos" : "10",
     "splashscreen_duration" : "3500",
     "isappOpen_showin_splash" : "1",
     "IsAdshowOneTime" : "true",
-    "IsAdshowOneBack" : "false",
+    "IsAdshowOneBack" : "true",
     "google_ad_reawrdad" : "",
     "google_ad_interestial" : "ca-app-pub-6113069574875874/2513122979",
     "google_banner" : "ca-app-pub-6113069574875874/7588521532",
@@ -1925,7 +1925,7 @@
     "fb_native_advance_adid" : "2667109526886138_3006833872913700",
     "fb_banner_adid" : "2667109526886138_2934057793524642",
     "request_gap_interstrial" : "25000",
-    "is_nativeadvance_active" : "1",
+    "is_nativeadvance_active" : "6",
     "adex_ad_interestial" : "/22405025169,22602898820/galleryapps.galleryalbum.gallery2019.Interstitial",
     "adex_ad_interestial_duration" : "0",
     "adex_advance_native_adid" : "/22405025169,22602898820/galleryapps.galleryalbum.gallery2019.Native",
@@ -1934,7 +1934,7 @@
     "applovin_interstrial" : "91af354c9fdeb82a",
     "applovin_banner" : "a3a6491114b6d23f",
     "applovin_native_advance" : "8f95f7a9ceddc1bd",
-    "active_banner_ad" : "1",
+    "active_banner_ad" : "6",
     "is_fb_bannerad_show" : "1",
     "is_update" : "false",
     "is_forcefully": "false",
@@ -1953,8 +1953,8 @@
     "cust_isshow" : "false",
     "notiappname" : "Video Player",
     "notidesc" : "#1 Ranked Video Player in android",
-    "notiurl" : "",
-    "notipkg" : ""
+    "notiurl" : "https://play-lh.googleusercontent.com/1CDhlKuo8m5OQvny_Rfw0ImmMRWUcv7NEYfcw6ivxCoys3fKVVbeTPYPhxVGiCxW3vE=s512",
+    "notipkg" : "bestplayer.freeplayer.videoplayer"
 }
 ]
 } 
