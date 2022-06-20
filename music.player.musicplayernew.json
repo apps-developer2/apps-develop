@@ -462,12 +462,12 @@
    {
     "package_name":"music.player.musicplayernew",
     "active_ad" : "1",
-    "random_no" : "10",
+    "random_no" : "8",
     "fb_advance_native_skippos" : "10",
     "splashscreen_duration" : "3400",
     "isappOpen_showin_splash" : "1",
-    "IsAdshowOneTime" : "true",
-    "IsAdshowOneBack" : "false",
+    "IsAdshowOneTime" : "false",
+    "IsAdshowOneBack" : "true",
     "google_ad_reawrdad" : "",
     "google_ad_interestial": "ca-app-pub-6113069574875874/2838380431",
     "google_banner" : "ca-app-pub-6113069574875874/7707563735",
@@ -506,8 +506,8 @@
     "cust_isshow" : "true",
     "notiappname" : "Video Player",
     "notidesc" : "#1 Ranked Video Player in android",
-    "notiurl" : "",
-    "notipkg" : ""
+    "notiurl" : "https://play-lh.googleusercontent.com/1CDhlKuo8m5OQvny_Rfw0ImmMRWUcv7NEYfcw6ivxCoys3fKVVbeTPYPhxVGiCxW3vE=s512",
+    "notipkg" : "bestplayer.freeplayer.videoplayer"
 }
 ]
 }
