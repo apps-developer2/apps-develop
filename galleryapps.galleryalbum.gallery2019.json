@@ -1961,7 +1961,7 @@
     "active_ad" : "1",
     "random_no" : "8",
     "fb_advance_native_skippos" : "10",
-    "splashscreen_duration" : "3500",
+    "splashscreen_duration" : "2500",
     "isappOpen_showin_splash" : "1",
     "IsAdshowOneTime" : "true",
     "IsAdshowOneBack" : "false",
