@@ -2001,10 +2001,10 @@
     "custom_adurl" : "",
     "customad_pkg" : "",
     "cust_isshow" : "false",
-    "notiappname" : "Samsung Music Player",
-    "notidesc" : "#1 Ranked Samsung Music Player",
-    "notiurl" : "https://play-lh.googleusercontent.com/9hkeAVk3_MfEd_bs5qWUUUlgbawDC52lAMXgpd1f8eLkyEyn-WN2IbYHBUNRcj-W9w=w240-h480-rw",
-    "notipkg" : "music.player.musicplayernew"
+    "notiappname" : "Video Player",
+    "notidesc" : "#1 Ranked Video Player in android",
+    "notiurl" : "https://play-lh.googleusercontent.com/1CDhlKuo8m5OQvny_Rfw0ImmMRWUcv7NEYfcw6ivxCoys3fKVVbeTPYPhxVGiCxW3vE=s512",
+    "notipkg" : "bestplayer.freeplayer.videoplayer"
 }
 ]
 } 
