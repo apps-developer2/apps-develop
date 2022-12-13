@@ -2194,7 +2194,7 @@
     "new_version_code" : "63",
     "rate_counter" : "1",
     "rate_star_value" : "4",
-    "product_id" : "",
+    "product_id" : "gallery_ad_free_price",
     "license_key" : "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAu30cPM/OM0LJ0es4HoGw2sKn2m1yMOtqzPhpa61JXf8QihEgju+Y8RLQiCbCnZi7JnLpq5So4VdQNIUYymZFN7IQwa2RyAXLfZGcbsY94zPLQ9SAPhqiTcMJqNK9R3SBdyFbe+OMctbyosuysEkCKU5CgMtau9oLw1VcP97/MUkoatOAmE6BXsCH1168B7PFjb7nPzR/XcUVgvSB/HLbKc70IiQYTEoNVf8qEBgYDzbnDVRiANU6CeMkBv8WCIcQp+Z+Hz+cDiOMCHoG2yCq2lt0Vuo13LD6q9MrDo4S7yHAz2cchLNlrv5PTA2aYBoBvdPqgy5e8/g9ksMBqCkSPwIDAQAB",
     "message" : "Update new Version is available to download. Downlaoding the latest version you will get the latest features,improvements and bug fix version",
     "removead_link" : "https://raw.githubusercontent.com/apps-developer/common-ad-setting/master/adremove_module.json",
