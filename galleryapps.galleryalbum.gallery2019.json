@@ -2163,7 +2163,7 @@
     "fb_advance_native_skippos" : "10",
     "splashscreen_duration" : "3000",
     "isappOpen_showin_splash" : "1",
-    "IsAdshowOneTime" : "true",
+    "IsAdshowOneTime" : "false",
     "IsAdshowOneBack" : "true",
     "google_ad_reawrdad" : "",
     "google_ad_interestial" : "ca-app-pub-6113069574875874/9416715972 && ca-app-pub-6113069574875874/2513122979",
